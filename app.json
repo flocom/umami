@@ -1,9 +1,9 @@
 {
-  "name": "Umami",
-  "description": "Umami is a simple, fast, website analytics alternative to Google Analytics.",
+  "name": "Iselia Analytics",
+  "description": "Iselia Analytics is a simple, fast, privacy-focused website analytics solution.",
   "keywords": ["analytics", "charts", "statistics", "web-analytics"],
-  "website": "https://umami.is",
-  "repository": "https://github.com/umami-software/umami",
+  "website": "https://iseliaprojects.com",
+  "repository": "https://github.com/flocom/analytics.iseliaprojects.com",
   "addons": ["heroku-postgresql"],
   "env": {
     "APP_SECRET": {
