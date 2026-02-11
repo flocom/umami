@@ -1,13 +1,13 @@
 {
-  "name": "umami",
+  "name": "iselia-analytics",
   "version": "3.0.3",
-  "description": "A modern, privacy-focused alternative to Google Analytics.",
-  "author": "Umami Software, Inc. <hello@umami.is>",
+  "description": "Iselia Analytics - A modern, privacy-focused analytics solution.",
+  "author": "Iselia Projects <contact@iseliaprojects.com>",
   "license": "MIT",
-  "homepage": "https://umami.is",
+  "homepage": "https://www.iseliaprojects.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/umami-software/umami.git"
+    "url": "https://github.com/flocom/analytics.iseliaprojects.com.git"
   },
   "type": "module",
   "scripts": {
